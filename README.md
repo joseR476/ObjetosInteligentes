@@ -41,14 +41,14 @@ O módulo WiFi ESP8266 é um dispositivo de comunicação sem fio que incorpora 
 O módulo ESP8266 oferece suporte a vários modos de operação, incluindo o modo estação , no qual ele pode se conectar a um ponto de acesso WiFi existente, e o modo ponto de acesso , no qual ele pode atuar como um ponto de acesso WiFi para outros dispositivos se conectarem a ele.<br />
 Ele pode ser programado usando a IDE do Arduino ou outras ferramentas de desenvolvimento compatíveis.<br />
 
-Protobord:<br />
+**Protobord:<br />**
 ![20230320_223109](https://github.com/joseR476/ObjetosInteligentes/assets/86845373/e5d71914-ad31-4987-9857-395947f55b64)
 
 A protoboard é projetada para permitir que os componentes eletrônicos sejam inseridos e conectados sem a necessidade de solda.
 Ela é composta por uma matriz de furos que estão conectados eletricamente em linhas e colunas. Esses furos são usados para inserir e interconectar componentes eletrônicos, como resistores, capacitores, diodos, transistores e outros, permitindo que sejam facilmente testados e reconfigurados.
 Ela será uma ferramenta muito útil para nosso projeto, já que permitem conectar diferentes componentes e topologias de circuitos sem a necessidade de solda ou conhecimento avançado de circuitos eletrônicos.<br />
 
-Sensor de umidade do solo:<br />
+**Sensor de umidade do solo:<br />**
 ![20230320_222929](https://github.com/joseR476/ObjetosInteligentes/assets/86845373/1eb1400b-af2e-4e6e-a273-5f83d03d8ff4)
 
 Um sensor de umidade do solo é um dispositivo eletrônico usado para medir a quantidade de água presente no solo. Ele funciona detectando a condutividade elétrica do solo, que é diretamente relacionada à quantidade de água presente.
@@ -56,7 +56,7 @@ Os sensores de umidade do solo geralmente possuem duas partes: uma sonda e um ci
 Os sensores de umidade do solo são comumente usados em sistemas de irrigação automática para monitorar a umidade do solo e garantir que as plantas recebam água suficiente sem excesso. Eles também são usados em estudos agrícolas e de pesquisa para monitorar as condições do solo e prever o crescimento das plantas.
 Os valores obtidos desse sensor será enviado para o nosso display LCD 16x2 e por programação ao nosso usuário. <br />
 
-Módulo relé 5V:<br />
+**Módulo relé 5V:<br />**
 ![20230320_223019](https://github.com/joseR476/ObjetosInteligentes/assets/86845373/c35788d3-8753-4b5c-a816-62f89fe85117)
 
 Um módulo relé 5V é um componente eletrônico usado para controlar circuitos elétricos com sinais de baixa tensão, como os gerados por microcontroladores, como o Arduino. Ele é composto por um relé e um circuito eletrônico que fornece a energia necessária para acionar o relé.
@@ -64,18 +64,18 @@ O relé é um interruptor eletromecânico que pode ser acionado por um sinal el�
 O módulo relé 5V é projetado para ser alimentado com uma tensão de 5V, o que o torna compatível com a maioria dos microcontroladores, incluindo o Arduino. Ele geralmente é conectado ao microcontrolador por meio de um conjunto de pinos, permitindo que o microcontrolador controle o estado do relé (ligado ou desligado) através de um sinal elétrico digital.<br />
 Ele que fará a função de liberar energia para a válvula solenoide, que tem a função de liberar a água para a irrigação.<br />
 
-Minibomba Água Sapo Submersa:<br />
+**Minibomba Água Sapo Submersa:<br />**
 ![20230518_214002](https://github.com/joseR476/ObjetosInteligentes/assets/86845373/ad475441-43ef-4104-9716-ad750b9e4c4f)
 
 Uma mini bomba de água Sapo submersa é um dispositivo compacto projetado para bombear água em pequenas quantidades. Essas bombas são especialmente projetadas para operarem submersas em líquidos, geralmente água, e são frequentemente usadas em aquários, fontes de água, sistemas de refrigeração, irrigação de jardins pequenos e outros projetos semelhantes. As mini bombas de água Sapo submersas são alimentadas por eletricidade e possuem um motor interno que aciona o mecanismo de bombeamento. Essas bombas geralmente possuem uma entrada de água em uma extremidade e uma saída de água na outra.
 Quando a bomba é ligada, o motor aciona um impulsor ou rotor que cria um fluxo de água, puxando-a pela entrada e bombeando-a pela saída. A capacidade de bombeamento e a altura máxima de elevação variam entre os modelos de mini bomba de água Sapo, portanto é importante verificar as especificações do fabricante antes de adquirir uma.<br />
 
-Fonte 5V: <br />
+**Fonte 5V: <br />**
 ![Fonte-12V-1A-Bivolt-Plug-P4-5-5-X-2-1mm-Para-CFTV-FC1201_1678970954_gg](https://github.com/joseR476/ObjetosInteligentes/assets/86845373/94eaa9a6-45f1-4bdb-a253-a8a58aa93770)
 
 Uma fonte de 5V, também conhecida como fonte de alimentação de 5 volts, é um dispositivo eletrônico projetado para fornecer uma saída de energia elétrica constante de 5 volts. Ela converte uma entrada de energia, geralmente proveniente de uma tomada de parede (AC) ou de uma fonte de energia de maior tensão, em uma tensão de saída fixa de 5 volts (DC), adequada para alimentar uma variedade de dispositivos eletrônicos.<br />
 
-Microtubo Pvc Flexível 3mm X 5 Mm:<br />
+**Microtubo Pvc Flexível 3mm X 5 Mm:<br />**
 ![20230518_214350](https://github.com/joseR476/ObjetosInteligentes/assets/86845373/9f5e9769-7ab5-49c2-9567-be6456983530)
 
 Um microtubo PVC flexível de 3mm x 5mm é um tubo de plástico feito de policloreto de vinila que possui um diâmetro externo de 3mm e um diâmetro interno de 5mm. Esses microtubos são projetados para serem flexíveis e maleáveis, permitindo que sejam facilmente dobrados e adaptados a diferentes necessidades de encaminhamento de fluidos.
