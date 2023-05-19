@@ -80,3 +80,10 @@ Uma fonte de 5V, também conhecida como fonte de alimentação de 5 volts, é um
 
 Um microtubo PVC flexível de 3mm x 5mm é um tubo de plástico feito de policloreto de vinila que possui um diâmetro externo de 3mm e um diâmetro interno de 5mm. Esses microtubos são projetados para serem flexíveis e maleáveis, permitindo que sejam facilmente dobrados e adaptados a diferentes necessidades de encaminhamento de fluidos.
 O PVC é um material comumente usado em tubos devido à sua durabilidade, resistência química e flexibilidade. O microtubo de PVC flexível de 3mm x 5mm é frequentemente usado em aplicações de pequena escala, como sistemas de irrigação, sistemas de gotejamento, sistemas de refrigeração, projetos de automação e outros projetos que requerem transporte de líquidos ou gases em espaços reduzidos.
+
+# Site e Aplicativo Usados Para a Comunicação MQTT:
+**Cloudmqtt<br />**
+https://customer.cloudmqtt.com/instance
+
+**MQTT Dashboard Client<br />**
+https://play.google.com/store/apps/details?id=com.doikov.mqttclient
