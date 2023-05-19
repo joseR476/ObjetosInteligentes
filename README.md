@@ -6,7 +6,7 @@ Everton Grima Gasparini <br />
 José Reinaldo dos Santos Junior <br />
 Luciana Gomes de Almeida Carneiro Rodrigues <br />
 
-# Conclusão do projeto
+# Objetivo do projeto
 
 O projeot a seguir tem o objetivo a apresentação do projeto da matéria de Objetos Inteligentes Conectados, que tem o intuito de conectar a natureza com a IOT (Internet of Things – Internet das Coisas). 
 Na pesquisa feita, identificamos um mercado de atuação para tal desenvolvimento, onde encontramos uma problemática através de estudo e pesquisa com um usuário, a rega de plantas domésticas. Foi relatado a dificuldade de manter suas plantas devidamente irrigadas, devido a rotina apertada; em períodos de calor, a ausência da irrigação pode acarretar o comprometimento do desenvolvimento da planta.
