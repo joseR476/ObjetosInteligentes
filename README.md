@@ -2,9 +2,9 @@
 
 # Participantes
 
-Everton Grima Gasparini
-José Reinaldo dos Santos Junior
-Luciana Gomes de Almeida Carneiro Rodrigues
+Everton Grima Gasparini <br />
+José Reinaldo dos Santos Junior <br />
+Luciana Gomes de Almeida Carneiro Rodrigues <br />
 
 # Conclusão do projeto
 
