@@ -23,7 +23,7 @@ Há indícios de que ela começou a ser praticada em 6.000 a.c, nas margens do R
 
 **Materiais:<br />**
 
-Para compor o nosso projeto, segue lista de materias, juntamente com sua descrição:<br />
+Para compor o nosso projeto, segue lista de materiais, juntamente com sua descrição:<br />
 •	Módulo WIFI NodeMCU ESP8266;<br />
 •	Protoboard;<br />
 •	Sensor de umidade do solo;<br />
