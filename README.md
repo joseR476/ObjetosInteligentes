@@ -34,7 +34,7 @@ Para compor o nosso projeto, segue lista de materias, juntamente com sua descri�
 
 # Descrição dos Objetos:
 
-Modulo Node Mcu Esp8266:<br />
+**Modulo Node Mcu Esp8266:<br />**
 ![20230518_213946](https://github.com/joseR476/ObjetosInteligentes/assets/86845373/e38ca769-9354-4a81-93fa-68117cdfb574)
 
 O módulo WiFi ESP8266 é um dispositivo de comunicação sem fio que incorpora uma pilha de protocolo TCP/IP completa. Ele é usado em uma ampla variedade de projetos de IoT e sistemas embarcados, nos quais é necessário adicionar conectividade WiFi a um dispositivo.<br />
