@@ -83,7 +83,12 @@ O PVC é um material comumente usado em tubos devido à sua durabilidade, resist
 
 # Site e Aplicativo Usados Para a Comunicação MQTT:
 **Site Cloudmqtt<br />**
-https://customer.cloudmqtt.com/instance
+https://customer.cloudmqtt.com/instance <br />
+
+![image](https://github.com/joseR476/ObjetosInteligentes/assets/86845373/9131acd1-927a-44b7-af1b-2c2e217c42be)
+
 
 **Aplicativo MQTT Dashboard Client<br />**
-https://play.google.com/store/apps/details?id=com.doikov.mqttclient
+https://play.google.com/store/apps/details?id=com.doikov.mqttclient  <br />
+![image](https://github.com/joseR476/ObjetosInteligentes/assets/86845373/71571c76-7621-4687-83c0-35a2218cb325)
+
