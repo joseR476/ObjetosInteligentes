@@ -18,6 +18,8 @@ A ideia é fazer o uso do NodeMCU, juntamente com sensores que identificarão o 
 Nesse artigo, teremos a apresentação do tema, uma revisão histórica, projeto sendo implementado, materiais a serem usados, plataforma, critérios básicos para aplicação, esquema eletrônico e vídeo do projeto rodando (virtualmente e fisicamente).<br />
 Há indícios de que ela começou a ser praticada em 6.000 a.c, nas margens do Rio Nilo, no Egito. O precursor das técnicas foi o Faraó Ramsés III, que construiu um canal para que as águas fossem redirecionadas aos locais onde era necessária para o melhor desenvolvimento das plantações. O objetivo da agricultura irrigada é fornecer a água necessária para que uma lavoura consiga se desenvolver, independentemente da região onde é feito o cultivo. Com isso, o negócio também consegue se manter produtivo por mais tempo — afinal, a irrigação garante a oferta de água mesmo em épocas de seca. Ao longo do tempo com o avanço da tecnologia, tivemos grandes evoluções, trazendo automatização e melhor entendimento sobre o tema.<br />
 
+# Vídeo no YouTube:
+https://www.youtube.com/watch?v=FcO0Wzr5ftY
 
 # Lista de Materiais:
 
